@@ -1,4 +1,4 @@
-## Hi I'm Berdason Badel 👋
+<h1 align="center">Hi I'm Berdason Badel 👋</h1>
 
 ## About Me
 I am a Computer Science graduate with a passion for problem-solving and software development. I've worked on a wide range of software projects, from web applications to backend systems, building efficient and user-friendly solutions. I'm eager to take on technical challenges, contribute innovative solutions, and grow professionally in a forward-thinking organization.
